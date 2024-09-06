@@ -6,12 +6,16 @@
 ## Brazil 
 back of signs
 
-<img src="./images/backOfSignBR.png" alt="Mapa Brazylii" width="300"/>
+<img src="./images/backOfSignBR.png" alt="" width="400"/>
 
 
 unity poles
 
-![unity poles](./images/obraz_2024-09-06_213025711.png)
+<img src="./images/obraz_2024-09-06_213025711.png" alt="" width="500"/>
+
 
 cars
-![car](./images/obraz_2024-09-06_213354220.png)![car](./images/obraz_2024-09-06_213548075.png)
+
+<img src="./images/obraz_2024-09-06_213354220.png" alt="" width="400"/>
+<img src="./images/obraz_2024-09-06_213548075.png" alt="" width="400"/>
+
