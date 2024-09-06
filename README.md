@@ -16,6 +16,6 @@ unity poles
 
 cars
 
-<img src="./images/obraz_2024-09-06_213354220.png" alt="" width="400"/>
-<img src="./images/obraz_2024-09-06_213548075.png" alt="" width="400"/>
+<img src="./images/obraz_2024-09-06_213354220.png" alt="" width="400" style="float: left;"/>
+<img src="./images/obraz_2024-09-06_213548075.png" alt="" width="400" style="float: right;"/>
 
