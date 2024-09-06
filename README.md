@@ -6,7 +6,8 @@
 ## Brazil 
 back of signs
 
-![black back of sign](./images/backOfSignBR.png)
+<img src="./images/backOfSignBR.png" alt="Mapa Brazylii" width="300"/>
+
 
 unity poles
 
