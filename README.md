@@ -9,7 +9,7 @@ back of signs
 <img src="./images/backOfSignBR.png" alt="" width="400"/>
 
 
-unity poles
+utility poles
 
 <img src="./images/obraz_2024-09-06_213025711.png" alt="" width="500"/>
 
